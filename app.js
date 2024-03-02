@@ -190,8 +190,8 @@ var b=1;
 var Result=(--a - --b + ++b + b--);
 document.write("<br>Result "+Result);
 
-var ahsan = prompt("enter your name")
-alert("welcome "+ahsan)
-var greeting= prompt("Enter your name");
+
+
+
+var greeting=prompt("Enter your name:");
 alert("welcome "+greeting);
-var get=prompt("Enter a number:");
