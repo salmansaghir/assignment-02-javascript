@@ -1,2 +1,2 @@
 link.
-https:// assignment_2_java.surge.sh
+https://assignment_2_javascript.surge.sh
